@@ -1,0 +1,14 @@
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\bin\Debug\net6.0\TSPP_Lab4.exe
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\bin\Debug\net6.0\TSPP_Lab4.deps.json
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\bin\Debug\net6.0\TSPP_Lab4.runtimeconfig.json
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\bin\Debug\net6.0\TSPP_Lab4.dll
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\bin\Debug\net6.0\TSPP_Lab4.pdb
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.AssemblyInfoInputs.cache
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.AssemblyInfo.cs
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.csproj.CoreCompileInputs.cache
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.dll
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\refint\TSPP_Lab4.dll
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.pdb
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\TSPP_Lab4.genruntimeconfig.cache
+D:\VisualStudio\OOP\TSPP_Lab4\TSPP_Lab4\obj\Debug\net6.0\ref\TSPP_Lab4.dll

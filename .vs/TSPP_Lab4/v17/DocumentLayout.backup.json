@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\OOP\\TSPP_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B38447-3FE7-4E67-95FE-EACA028E4CF8}|TSPP_Lab4\\TSPP_Lab4.csproj|d:\\visualstudio\\oop\\tspp_lab4\\tspp_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B38447-3FE7-4E67-95FE-EACA028E4CF8}|TSPP_Lab4\\TSPP_Lab4.csproj|solutionrelative:tspp_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\OOP\\TSPP_Lab4\\TSPP_Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "TSPP_Lab4\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\OOP\\TSPP_Lab4\\TSPP_Lab4\\Program.cs",
+              "RelativeToolTip": "TSPP_Lab4\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:41:28.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
